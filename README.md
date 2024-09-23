@@ -12,8 +12,10 @@
     /backend<br>
     └── /models<br>
         └── Apparel.js<br>
+          /backend<br>
     └── /routes<br>
         └── apparel.js<br>
+          /backend<br>
     └── server.js <br>
 
 
@@ -29,6 +31,7 @@
     /src<br>
     └── /components<br>
         └── SubmitApparelForm.js<br>
+         /src<br>
     └── App.js<br>
 
 <h3>Run the Application</h3>
