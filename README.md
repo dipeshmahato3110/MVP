@@ -38,6 +38,6 @@
 
 <h5>Start the Backend</h5>
    <h6> In the /backend folder, run: node server.js </h6>
-<br>
+
 <h6>Start the Frontend
     In the /apparel-app folder, run: npm start</h6>
